@@ -1,0 +1,7 @@
+The goal is to create a stop watch that users can start, pause, and stop.
+
+1. Create a component for all three functions
+2. Create a class component for the watch do be made in
+3. Within the constructor props add this.state for our timer objects array
+4. Within the state we are going to set our timer to it's default state. "timerOn: false,timerStart: 0, timerTime: 0"
+5. We know the user will need to buttons to use this app. In the return section create buttons for start, pause, and stop.
